@@ -1,0 +1,573 @@
+{
+  "apidata": [
+    {
+      "id": 1,
+      "department":"SA System",
+      "attendance":"P"
+    },
+    {
+      "id": 2,
+      "department":"GVT Construction",
+      "attendance":"P"
+    },
+    {
+      "id": 3,
+      "department":"Watts & Luxes",
+      "attendance":"P"
+    },
+    {
+      
+      "id": 4,
+      "department":"Watts & Luxes",
+      "attendance":"L"
+    },
+    {
+      "id": 5,
+      "department":"SA System",
+      "attendance":"P"
+    },
+    {
+      "id": 6,
+      "department":"GVT Construction",
+      "attendance":"A"
+    },
+    {
+      "id": 7,
+      "department":"GVT Construction",
+      "attendance":"P"
+    },
+    {
+      "id": 8,
+      "department":"SA System",
+      "attendance":"P"
+    },
+    {
+      "id": 9,
+      "department":"SA System",
+      "attendance":"L"
+    },
+    {
+      "id": 10,
+      "department":"SA System",
+      "attendance":"A"
+    },
+    {
+      
+      "id": 11,
+      "department":"Watts & Luxes",
+      "attendance":"A"
+    },
+    {
+      
+      "id": 12,
+      "department":"Watts & Luxes",
+      "attendance":"A"
+    },
+    {
+      
+      "id": 13,
+      "department":"Watts & Luxes",
+      "attendance":"P"
+    },
+    {
+      "id": 14,
+      "department":"GVT Construction",
+      "attendance":"L"
+    },
+    {
+      "id": 15,
+      "department":"Ethernet",
+      "attendance":"P"
+    },
+    {
+      "id": 16,
+      "department":"Marketing",
+      "attendance":"P"
+    },
+    {
+      "id": 17,
+      "department":"Ethernet",
+      "attendance":"A"
+    },
+    {
+      "id": 18,
+      "department":"Marketing",
+      "attendance":"L"
+    }
+  ],
+  "apidata2": [
+    {
+      "id": 1,
+      "month": "Jan",
+      "expense": "5000",
+      "revenue": "20000"
+    },
+    {
+      "id": 2,
+      "month": "Feb",
+      "expense": "30000",
+      "revenue": "100000"
+    },
+    {
+      "id": 3,
+      "month": "Mar",
+      "expense": "20000",
+      "revenue": "40000"
+    },
+    {
+      
+      "id": 4,
+      "month": "Apr",
+      "expense": "8000",
+      "revenue": "50000"
+    },
+    {
+      "id": 5,
+      "month": "May",
+      "expense": "60000",
+      "revenue": "60000"
+    },
+    {
+      "id": 6,
+      "month": "June",
+      "expense": "10000",
+      "revenue": "70000"
+    },
+    {
+      "id": 7,
+      "month": "July",
+      "expense": "11000",
+      "revenue": "9000"
+    },
+    {
+      "id": 8,
+      "month": "Aug",
+      "expense": "12000",
+      "revenue": "90000"
+    },
+    {
+      "id": 9,
+      "month": "Sep",
+      "expense": "13000",
+      "revenue": "7000"
+    },
+    {
+      "id": 10,
+      "month": "Oct",
+      "expense": "14000",
+      "revenue": "110000"
+    },
+    {
+      "id": 11,
+      "month": "Nov",
+      "expense": "2000",
+      "revenue": "120000"
+    },
+    {
+      "id": 12,
+      "month": "Dec",
+      "expense": "1000",
+      "revenue": "130000"
+    }
+  ],
+  "apidata3": [
+    {
+      "id": 1,
+      "receivable": 642867,
+      "income": 5628,
+      "payable": 2072,
+      "overdue": 828,
+      "expense": 3162,
+      "cash": 8917
+    },
+    {
+      "id": 2,
+      "receivable": 2121,
+      "income": 4541,
+      "payable": 9111,
+      "overdue": 126,
+      "expense": 781,
+      "cash": 8923
+    },
+    {
+      "id": 3,
+      "receivable": 2121,
+      "income": 4541,
+      "payable": 9111,
+      "overdue": 126,
+      "expense": 781,
+      "cash": 8923
+    },
+    {
+      "id": 4,
+      "receivable": 2121,
+      "income": 4541,
+      "payable": 9111,
+      "overdue": 126,
+      "expense": 781,
+      "cash": 8923
+    },
+    {
+      "id": 5,
+      "receivable": 2121,
+      "income": 4541,
+      "payable": 9111,
+      "overdue": 126,
+      "expense": 781,
+      "cash": 8923
+    }
+  ],
+  "apidata4": [
+    {
+      "id": 1,
+      
+      "location": "DHA Phase 6",
+      "city": "Lahore",
+      "profit":1882728
+    },
+    {
+      "id": 2,
+      
+      "location": "Kala Shah Kaku",
+      "city": "Sheikhupura",
+      "profit":8279882728
+    },
+    {
+      "id": 3,
+      
+      "location": "Shah Faisal Town",
+      "city": "Karachi",
+      "profit":7627862
+    },
+    {
+      "id": 4,
+      
+      "location": "Johar Town Phase 2",
+      "city": "Lahore",
+      "profit":1078721
+    },
+    {
+      "id": 5,
+      
+      "location": "Faisal Town",
+      "city": "Faislabad",
+      "profit":5615161
+    },
+    {
+      "id": 5,
+      
+      "location": "Ichara",
+      "city": "Lahore",
+      "profit":132616
+    }
+  ],
+  "apidata5": [
+    {
+      "id": 1,
+      "month": "Jan",
+      "hiring": 200,
+      "firing": 50
+    },
+    {
+      "id": 2,
+      "month": "Feb",
+      "hiring": 250,
+      "firing": 30
+    },
+    {
+      "id": 3,
+      "month": "Mar",
+      "hiring": 100,
+      "firing": 30
+    },
+    {
+      "id": 4,
+      "month": "Apr",
+      "hiring": 300,
+      "firing": 80
+    },
+    {
+      "id": 5,
+      "month": "May",
+      "hiring": 350,
+      "firing": 100
+    },
+    {
+      "id": 6,
+      "month": "June",
+      "hiring": 250,
+      "firing": 70
+    },
+    {
+      "id": 7,
+      "month": "July",
+      "hiring": 200,
+      "firing": 50
+    },
+    {
+      "id": 8,
+      "month": "Aug",
+      "hiring": 80,
+      "firing": 100
+    },
+    {
+      "id": 9,
+      "month": "Sep",
+      "hiring": 20,
+      "firing": 90
+    },
+    {
+      "id": 10,
+      "month": "Oct",
+      "hiring": 300,
+      "firing": 150
+    },
+    {
+      "id": 11,
+      "month": "Nov",
+      "hiring": 800,
+      "firing": 500
+    },
+    {
+      "id": 12,
+      "month": "Dec",
+      "hiring": 1050,
+      "firing": 800
+    }
+  ],
+  "apidata6": [
+    {
+      "id": 1,
+      "month": "Jan",
+      "sale": 31,
+      "purchase": 11
+    },
+    {
+      "id": 2,
+      "month": "Feb",
+      "sale": 40,
+      "purchase": 32
+    },
+    {
+      "id": 3,
+      "month": "Mar",
+      "sale": 28,
+      "purchase": 45
+    },
+    {
+      "id": 4,
+      "month": "Apr",
+      "sale": 51,
+      "purchase": 32
+    },
+    {
+      "id": 5,
+      "month": "May",
+      "sale": 52,
+      "purchase": 34
+    },
+    {
+      "id": 6,
+      "month": "June",
+      "sale": 109,
+      "purchase": 52
+    },
+    {
+      "id": 7,
+      "month": "July",
+      "sale": 100,
+      "purchase": 41
+    },
+    {
+      "id": 8,
+      "month": "Aug",
+      "sale": 80,
+      "purchase": 100
+    },
+    {
+      "id": 9,
+      "month": "Sep",
+      "sale": 200,
+      "purchase": 90
+    },
+    {
+      "id": 10,
+      "month": "Oct",
+      "sale": 300,
+      "purchase": 150
+    },
+    {
+      "id": 11,
+      "month": "Nov",
+      "sale": 80,
+      "purchase": 50
+    },
+    {
+      "id": 12,
+      "month": "Dec",
+      "sale": 105,
+      "purchase": 80
+    }
+  ],
+  "apidata7": [
+    {
+      "id": 1,
+      "month": "Jan",
+      "cashpaid": 31000000,
+      "bankpaid": 11000000,
+      "totalpaid": 42000000
+    },
+    {
+      "id": 2,
+      "month": "Feb",
+      "cashpaid": 40000000,
+      "bankpaid": 32000000,
+      "totalpaid": 72000000
+    },
+    {
+      "id": 3,
+      "month": "Mar",
+      "cashpaid": 28000000,
+      "bankpaid": 45000000,
+      "totalpaid": 73000000
+    },
+    {
+      "id": 4,
+      "month": "Apr",
+      "cashpaid": 71000000,
+      "bankpaid": 32000000,
+      "totalpaid": 83000000
+    },
+    {
+      "id": 5,
+      "month": "May",
+      "cashpaid": 42000000,
+      "bankpaid": 34000000,
+      "totalpaid": 76000000
+    },
+    {
+      "id": 6,
+      "month": "June",
+      "cashpaid": 109000000,
+      "bankpaid": 52000000,
+      "totalpaid": 161000000
+    },
+    {
+      "id": 7,
+      "month": "July",
+      "cashpaid": 100000000,
+      "bankpaid": 41000000,
+      "totalpaid": 141000000
+    },
+    {
+      "id": 8,
+      "month": "Aug",
+      "cashpaid": 80000000,
+      "bankpaid": 100000000,
+      "totalpaid": 180000000
+    },
+    {
+      "id": 9,
+      "month": "Sep",
+      "cashpaid": 200000000,
+      "bankpaid": 90000000,
+      "totalpaid": 290000000
+    },
+    {
+      "id": 10,
+      "month": "Oct",
+      "cashpaid": 300000000,
+      "bankpaid": 150000000,
+      "totalpaid": 450000000
+    },
+    {
+      "id": 11,
+      "month": "Nov",
+      "cashpaid": 80000000,
+      "bankpaid": 50000000,
+      "totalpaid": 130000000
+    },
+    {
+      "id": 12,
+      "month": "Dec",
+      "cashpaid": 105000000,
+      "bankpaid": 80000000,
+      "totalpaid": 185000000
+    }
+  ],
+  "apidata8": [
+    {
+      "id": 1,
+      "layzoo": 7622,
+      "nightblink": 8728,
+      "lcyflame": 9229,
+      "feelopie": 6526,
+      "grofler": 5415
+      
+    },
+    {
+      "id": 2,
+      "layzoo": 1282,
+      "nightblink": 8172,
+      "lcyflame": 7661,
+      "feelopie": 8917,
+      "grofler": 7417
+    },
+    {
+      "id": 3,
+      "layzoo": 5242,
+      "nightblink": 7816,
+      "lcyflame": 1382,
+      "feelopie": 7816,
+      "grofler": 7628
+    },
+    {
+      "id": 4,
+      "layzoo": 5628,
+      "nightblink": 7817,
+      "lcyflame": 9292,
+      "feelopie": 7673,
+      "grofler": 4756
+    },
+    {
+      "id": 5,
+      "layzoo": 6416,
+      "nightblink": 4562,
+      "lcyflame": 8191,
+      "feelopie": 3622,
+      "grofler": 8717
+    },
+    {
+      "id": 6,
+      "layzoo": 1346,
+      "nightblink": 7627,
+      "lcyflame": 6526,
+      "feelopie": 9912,
+      "grofler": 6152
+    },
+    {
+      "id": 7,
+      "layzoo": 3678,
+      "nightblink": 3261,
+      "lcyflame": 5345,
+      "feelopie": 8891,
+      "grofler": 4362
+    },
+    {
+      "id": 8,
+      "layzoo": 3621,
+      "nightblink": 7836,
+      "lcyflame": 3528,
+      "feelopie": 7628,
+      "grofler": 4357
+    },
+    {
+      "id": 9,
+      "layzoo": 9228,
+      "nightblink": 3162,
+      "lcyflame": 8732,
+      "feelopie": 5166,
+      "grofler": 5552
+    }
+  ]
+}
